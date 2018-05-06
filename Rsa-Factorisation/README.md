@@ -8,3 +8,10 @@
 # Write-up
 
 I use **pycrypto** to find out the module **N** and the open exponent **e**
+
+```python
+from Crypto.PublicKey import RSA
+key = RSA.importKey(open('pubkey.pem').read())
+print('n = ',key.n)
+print('e = ',key.e)
+```
