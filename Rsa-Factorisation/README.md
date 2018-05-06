@@ -7,4 +7,4 @@
 
 # Write-up
 
-I use _pycrypto_ to find out the module N and the open exponent e
+I use **pycrypto** to find out the module **N** and the open exponent **e**
