@@ -1,5 +1,5 @@
 # Python - PyJail 2
-**Category:** Cryptanalysis **Points:** 40 **Description:**
+**Category:** App - Script **Points:** 40 **Description:**
 Statement
 Retrieve validation’s password and get out of this jail.
 
