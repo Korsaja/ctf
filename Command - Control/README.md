@@ -53,12 +53,12 @@ Now that we know the virtual offset for the SYSTEM hive, get the computer name w
 > volatility -f ch2.dmp printkey -o 0x8b21c008 -K "ControlSet001\Control\ComputerName\ComputerName" --profile=Win7SP1x86
 
 
->Legend:(S) = Stable (V) = Volatile
->----------------------------
->Registry: \REGISTRY\MACHINE\SYSTEM
->Key name: ComputerName (S)
->Last updated: 2013-01-12 00:58:30 UTC+0000
->Subkeys:
->Values:
->REG_SZ                        : (S) mnmsrvc 
->REG_SZ        ComputerName    : (S) WIN-ETSA91RKCFP
+
+> Legend:(S) = Stable (V) = Volatile
+> Registry: \REGISTRY\MACHINE\SYSTEM
+> Key name: ComputerName (S)
+> Last updated: 2013-01-12 00:58:30 UTC+0000
+> Subkeys:
+> Values:
+> REG_SZ                        : (S) mnmsrvc 
+> REG_SZ        ComputerName    : (S) WIN-ETSA91RKCFP
