@@ -21,6 +21,8 @@ Welcome to my Python sandbox! Everything is in exit() function (arg == get the f
 
 #### Analyzing what’s allowed
 # Trying some things around, we see there is not a lot left to call
-> x = 0x10 
-print x 
+```python
+>>> x = 0x10
+>>> print x
 16
+```
