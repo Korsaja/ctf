@@ -6,7 +6,7 @@
 # Write-up
 Enable Secret Can’t be decrypt.
 Instead I decrypted Cisco 7 Password of Admin & Console
-Using findmyhash in kali linux
+Using **findmyhash** in kali linux
 And I found pattern in passwords are as follows :
 Admin password is : **6sK0_admin**
 Console Password is : **6sK0_Console**
