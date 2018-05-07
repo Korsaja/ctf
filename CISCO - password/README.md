@@ -1,5 +1,5 @@
 # CISCO - password
-**Category:** Cryptanalysis **Points:** 15 **Description:**
+**Category:** Network **Points:** 15 **Description:**
 **Statement**
 > Find the "Enable" password.
 
